@@ -1,1 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><ROOT></ROOT>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1590533748734" Description="Version 1.0" Name="Covance_DataManagement" PackageName="Covance_DataManagement.spk" UserID="sasdemo@SASBAP" Version="c6d624e">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Data Integration Jobs/Covance_DataManagement(Job)</ContainObj>
+</ArchInfo>
+</ROOT>
