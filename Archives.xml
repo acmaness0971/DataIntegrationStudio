@@ -25,4 +25,10 @@
 <ContainObj>SBIP://METASERVER/Shared Data/SAS Data/SAS Federation Server Tables/Base/STAGING_DATA(Table)</ContainObj>
 <ContainObj>SBIP://METASERVER/Shared Data/SAS Libraries/SAS Federation Server SASBAP_Data(Library)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1590606452434" Description="Version 1.1" Name="Covance_Final_DataManagement" PackageName="Covance_Final_DataManagement.spk" UserID="sasdemo@SASBAP" Version="5fb4685">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Data Integration Jobs/Covance_Final_DataManagement(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SAS Data/SAS Federation Server Tables/Base/COVANCE_FINAL_DIMENSION_DATA(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SAS Data/SAS Federation Server Tables/Base/STAGING_DATA(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SAS Libraries/SAS Federation Server SASBAP_Data(Library)</ContainObj>
+</ArchInfo>
 </ROOT>
