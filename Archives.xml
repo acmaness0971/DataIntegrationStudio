@@ -2,4 +2,10 @@
 <ArchInfo Date="1590533748734" Description="Version 1.0" Name="Covance_DataManagement" PackageName="Covance_DataManagement.spk" UserID="sasdemo@SASBAP" Version="c6d624e">
 <ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Data Integration Jobs/Covance_DataManagement(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1590552155543" Description="Version 1.1" Name="Covance_DataManagement" PackageName="Covance_DataManagement.spk" UserID="sasdemo@SASBAP" Version="7d68847">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Data Integration Jobs/Covance_DataManagement(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SAS Data/SAS Federation Server Tables/Base/CONTACTS_NONSTND(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SAS Data/SAS Federation Server Tables/Base/CONTACTS_STND(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SAS Libraries/SAS Federation Server SASBAP_Data(Library)</ContainObj>
+</ArchInfo>
 </ROOT>
