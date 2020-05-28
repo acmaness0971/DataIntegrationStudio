@@ -44,4 +44,15 @@
 <ContainObj>SBIP://METASERVER/Shared Data/SAS Libraries/SAS Federation Server Oracle(Library)</ContainObj>
 <ContainObj>SBIP://METASERVER/Shared Data/SAS Libraries/SAS Federation Server SASBAP_Data(Library)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1590686464578" Description="Version 2.0" Name="Covance_DataManagement" PackageName="Covance_DataManagement.spk" UserID="sasdemo@SASBAP" Version="71fde1f">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Data Integration Jobs/Covance_DataManagement(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SAS Data/SAS Federation Server Tables/Base/CONTACTS_NONSTND(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SAS Data/SAS Federation Server Tables/Base/CONTACTS_STND(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SAS Data/SAS Federation Server Tables/Base/STAGING_DATA(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/External Files/XML/STND/XMLSTND(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/External Files/CSV/STND/CSVSTND(ExternalFile)</ContainObj>
+<ContainObj>SBIP://METASERVER/System/Applications/SAS Data Integration Studio/DI Studio Common Data/Generated Transformations/Publish to Email(GeneratedTransform)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SAS Libraries/SAS Federation Server SASBAP_Data(Library)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/External Files/XML/STND/XML_STND(Library)</ContainObj>
+</ArchInfo>
 </ROOT>
