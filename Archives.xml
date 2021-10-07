@@ -65,4 +65,7 @@
 <ArchInfo Date="1633621505200" Description="" Name="Execute End to end Data Integration Job" PackageName="Execute End to end Data Integration Job.spk" UserID="sasdemo@d10c480" Version="8fc2635">
 <ContainObj>SBIP://METASERVER/Shared Data/Data Integration Studio Jobs/Execute End to End Data Integration Job(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1633621539528" Description="" Name="Execute End to End Data Integration Job" PackageName="Execute End to End Data Integration Job.spk" UserID="sasdemo@d10c480" Version="78879d2">
+<ContainObj>SBIP://METASERVER/Shared Data/Data Integration Studio Jobs/Execute End to End Data Integration Job(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
