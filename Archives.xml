@@ -58,4 +58,8 @@
 <ArchInfo Date="1605885275740" Description="" Name="TEST" PackageName="TEST.spk" UserID="sasdemo@SASBAP" Version="d4bb829">
 <ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Data Integration Jobs/0. Execute_End_to_End_Web_Service(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1633619275524" Description="" Name="Execute End to End Data Integration Job" PackageName="Execute End to End Data Integration Job.spk" UserID="sasdemo@d10c480" Version="2932ab9">
+<ContainObj>SBIP://METASERVER/Shared Data/Data Integration Studio Jobs/Execute End to End Data Integration Job(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/Data Integration Studio Jobs/Execute End to End Data Integration Job.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
